@@ -107,11 +107,6 @@ Access the site at:
 
 ---
 
-## 📸 Screenshots (Optional)
-_Add your dashboard/map screenshots here later._
-
----
-
 ## 🤝 Contributing
 Contributions are welcome!  
 Fork the repo → Create a branch → Make changes → Submit a pull request.
